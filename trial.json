@@ -31,5 +31,8 @@
   },
   "SYNDICATE_BOT_TRIALS": {
     "expired": "2026-04-29"
+  },
+  "SYNDICATE_BOT": {
+    "expired": "2026-05-15"
   }
 }
